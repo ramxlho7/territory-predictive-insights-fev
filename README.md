@@ -85,8 +85,8 @@ O algoritmo identifica padrões quantitativos e rompe limiares pré-configurados
 
 ---
 
-## 6. Divisão de Tarefas da Equipe
+## 6. Equipe
 
-* **Integrante 1 (`[Nome - RM]`):** Modelagem do domínio orientado a objetos (`ComponenteTerritorial`, `EstacaoHidrologica`, `Sensor` e suas 3 implementações, `DadosTerritorio`) e exceções customizadas (`DadosInvalidosException`, `FonteIndisponivelException`).
-* **Integrante 2 (`[Nome - RM]`):** Camada de persistência JDBC com H2 (`ConnectionFactory`, `MedicaoDAO`, `AlertaDAO` com `PreparedStatement` e `try-with-resources`) e exportação CSV.
-* **Integrante 3 (`[Nome - RM]`):** Estratégias polimórficas de previsão (`EstrategiaPrevisao`, `PrevisaoMediaMovel`, `PrevisaoComparacao`), padrões criacionais (`ConfiguracaoSistema`, `FabricaPrevisao`, `RelatorioBuilder`), `ServicoMonitoramento`, menu console e testes unitários (JUnit 5 + Mockito).
+Gabriel Simioni  | RM563475
+Davi Xavier         | RM563572
+Felipe Ramalho  | RM565073
